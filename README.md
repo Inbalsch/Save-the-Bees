@@ -1,14 +1,14 @@
 
 # 🐝 Save The Bees — Varroa Mites  #1 Enemy! (Dashboard)
 
-## 📊 Overview
+## Overview
 
 This Tableau dashboard explores the impact of **Varroa mite infestations** on honey bee colony losses across the United States.
 Using data from the [`Save the Honey Bees` dataset on Kaggle](https://www.kaggle.com/datasets/m000sey/save-the-honey-bees/data), the analysis identifies Varroa mites as the **leading cause of colony decline**, compares their prevalence to other causes, and visualizes geographic and temporal trends.
 
 ---
 
-## 🎯 Key Insights
+## Key Insights
 
 * **Varroa mites are the #1 reported cause** of colony loss, averaging the highest percentage among all reported causes.
 * **Positive correlation** between Varroa mite % and colony loss %, supported by scatter plots and trend lines.
@@ -18,7 +18,7 @@ Using data from the [`Save the Honey Bees` dataset on Kaggle](https://www.kaggle
 
 ---
 
-## 📂 Files in This Repository
+## Files in This Repository
 
 * **`varroa_mites_dashboard.twbx`** — Packaged Tableau workbook containing:
 
@@ -33,7 +33,7 @@ Using data from the [`Save the Honey Bees` dataset on Kaggle](https://www.kaggle
 
 ---
 
-## 📥 How to Use
+## How to Use
 
 1. **Download** the `.twbx` file from this repository.
 2. Open it in **Tableau Desktop** or **Tableau Public** (free).
@@ -41,7 +41,7 @@ Using data from the [`Save the Honey Bees` dataset on Kaggle](https://www.kaggle
 
 ---
 
-## 📊 Dashboard Story
+## Dashboard Story
 
 The dashboard is designed as a **six-visual narrative**:
 
@@ -54,7 +54,7 @@ The dashboard is designed as a **six-visual narrative**:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 This project used a mix of tools for **data preparation, analysis, and visualization**:
 
@@ -65,7 +65,7 @@ This project used a mix of tools for **data preparation, analysis, and visualiza
 
 ---
 
-## 📜 Data Source
+## Data Source
 
 Dataset: [`Save the Honey Bees` — Kaggle](https://www.kaggle.com/datasets/m000sey/save-the-honey-bees/data)
 Contains bee colony loss data across U.S. states, broken down by cause, year, and season.
