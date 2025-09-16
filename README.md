@@ -15,6 +15,7 @@ Using data from the [`Save the Honey Bees` dataset on Kaggle](https://www.kaggle
 * Geographic heatmaps show that **Varroa infestation is widespread** across the U.S., not limited to a few states.
 * Top-loss states (e.g., Arizona, New Mexico, Kansas) show **Varroa dominance** in cause breakdowns.
 * Other causes (pesticides, diseases, weather) contribute to losses but have **weaker statistical relationships** with % Lost compared to Varroa.
+* Higher Varroa mite infestation aligns with higher colony losses, peaking in 2018. This highlights Varroa mites as a key driver of bee mortality.
 
 ---
 
